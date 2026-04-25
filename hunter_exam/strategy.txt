@@ -1,0 +1,7 @@
+Strategy Document
+====================
+1. Simulation Engine Design: Simulated each phase by calculating a weighted score for each applicant.
+2. Optimization Algorithm: Greedy-probabilistic approach. Choose 'Exert' if expected survival probability is low, else 'Conserve'.
+3. Trust & Alliances: Explored alliances only when the alliance multiplier was > 1.0 and estimated trust was high.
+4. Wildcards & Ringers: Detected by tracking variance in phase performance versus stated stats. Ringers flagged when performance consistently under-matched stats.
+5. Edge Cases: Handled low energy scenarios by forcing 'Conserve' regardless of phase difficulty.

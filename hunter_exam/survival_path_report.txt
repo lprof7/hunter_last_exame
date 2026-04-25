@@ -1,0 +1,37 @@
+Survival Path Report
+====================
+
+Phase 1: Endurance Run
+- Decision: Conserve (Energy left: 84)
+- Alliance: No alliance formed
+- Results: 280 survived. Adaptations made for next phase based on tracking wildcards.
+
+Phase 2: Swamp Navigation
+- Decision: Conserve (Energy left: 72)
+- Alliance: No alliance formed
+- Results: 196 survived. Adaptations made for next phase based on tracking wildcards.
+
+Phase 3: Trick Tower
+- Decision: Exert (Energy left: 49)
+- Alliance: Allied with A_083
+- Results: 119 survived. Adaptations made for next phase based on tracking wildcards.
+
+Phase 4: Island Hunt
+- Decision: Conserve (Energy left: 29)
+- Alliance: No alliance formed
+- Results: 60 survived. Adaptations made for next phase based on tracking wildcards.
+
+Phase 5: Nen Basics
+- Decision: Conserve (Energy left: 21)
+- Alliance: No alliance formed
+- Results: 48 survived. Adaptations made for next phase based on tracking wildcards.
+
+Phase 6: Tournament
+- Decision: Conserve (Energy left: 5)
+- Alliance: No alliance formed
+- Results: 24 survived. Adaptations made for next phase based on tracking wildcards.
+
+Phase 7: Final Interview
+- Decision: Conserve (Energy left: 1)
+- Alliance: No alliance formed
+- Results: 20 survived. Adaptations made for next phase based on tracking wildcards.

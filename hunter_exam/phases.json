@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Endurance Run",
+    "weights": {
+      "speed": 0.5,
+      "strength": 0.4,
+      "intelligence": 0.1,
+      "nen_control": 0,
+      "teamwork": 0
+    },
+    "elimination_rate": 0.3,
+    "energy_cost": 20,
+    "alliance_multiplier": 1.0
+  },
+  {
+    "id": 2,
+    "name": "Swamp Navigation",
+    "weights": {
+      "speed": 0.3,
+      "strength": 0.2,
+      "intelligence": 0.4,
+      "nen_control": 0.1,
+      "teamwork": 0
+    },
+    "elimination_rate": 0.3,
+    "energy_cost": 15,
+    "alliance_multiplier": 1.1
+  },
+  {
+    "id": 3,
+    "name": "Trick Tower",
+    "weights": {
+      "speed": 0.1,
+      "strength": 0.2,
+      "intelligence": 0.5,
+      "nen_control": 0,
+      "teamwork": 0.2
+    },
+    "elimination_rate": 0.4,
+    "energy_cost": 15,
+    "alliance_multiplier": 1.4
+  },
+  {
+    "id": 4,
+    "name": "Island Hunt",
+    "weights": {
+      "speed": 0.3,
+      "strength": 0.3,
+      "intelligence": 0.3,
+      "nen_control": 0.1,
+      "teamwork": 0
+    },
+    "elimination_rate": 0.5,
+    "energy_cost": 25,
+    "alliance_multiplier": 0.8
+  },
+  {
+    "id": 5,
+    "name": "Nen Basics",
+    "weights": {
+      "speed": 0.1,
+      "strength": 0.1,
+      "intelligence": 0.2,
+      "nen_control": 0.6,
+      "teamwork": 0
+    },
+    "elimination_rate": 0.2,
+    "energy_cost": 10,
+    "alliance_multiplier": 1.0
+  },
+  {
+    "id": 6,
+    "name": "Tournament",
+    "weights": {
+      "speed": 0.3,
+      "strength": 0.4,
+      "intelligence": 0.1,
+      "nen_control": 0.2,
+      "teamwork": 0
+    },
+    "elimination_rate": 0.5,
+    "energy_cost": 20,
+    "alliance_multiplier": 0.5
+  },
+  {
+    "id": 7,
+    "name": "Final Interview",
+    "weights": {
+      "speed": 0,
+      "strength": 0,
+      "intelligence": 0.6,
+      "nen_control": 0.2,
+      "teamwork": 0.2
+    },
+    "elimination_rate": 0.2,
+    "energy_cost": 5,
+    "alliance_multiplier": 1.0
+  }
+]
